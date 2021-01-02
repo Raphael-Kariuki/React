@@ -8,6 +8,8 @@ function App() {
           <ul>
             <li><a href="#"><span>Home</span></a></li>
             <li><a href="#"><span>Gallery</span></a></li>
+            <li><a href="#"><span>About us</span></a></li>
+            <li><a href="#"><span>FAQs</span></a></li>
           </ul>
         </nav>
         <div className="Content">
